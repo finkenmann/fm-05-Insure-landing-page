@@ -382,7 +382,7 @@ footer {
       top right;
   }
 
-  .container-intro {
+  .intro__container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 3rem;
